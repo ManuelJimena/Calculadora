@@ -1,0 +1,17 @@
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 10vh;
+    background: #333;
+}
+
+footer p {
+    color: #fff;
+    font-size: 22px;
+}
+
+.github img {
+    width: 20px;
+    margin-left: 0.2rem;
+}
